@@ -72,7 +72,7 @@ Each final image includes:
 ---
 
 ## Known Limitations  
-- Dataset does not contain product name and tone, so these were added manually for 50 records randomly selected  
+- Dataset does not contain product name and tone, so these were added manually by randomly selecting through code  
 - CTA is fixed logic
 - Tone based styling not present
 - Text may occasionally overlap image content
