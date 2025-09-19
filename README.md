@@ -1,5 +1,5 @@
 
-# AdSnap: AI-Powered Ad Banner Generator – User Manual
+# AdSnap: AI-Powered Ad Banner Generator
 
 ## Project Overview  
 This project automates advertisement banner generation, by implementing a modular AI powered advertisement banner generation pipeline, which transforms raw inputs like product image, tone input, product name into visually coherent and lightweight banners. 
